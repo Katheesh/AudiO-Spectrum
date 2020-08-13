@@ -1,0 +1,41 @@
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\bin\Release\Audio Spectrum.exe
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\bin\Release\Audio Spectrum.pdb
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio_Spectrum.Form1.resources
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio_Spectrum.Properties.Resources.resources
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.csproj.GenerateResource.Cache
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.exe
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.pdb
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\bin\Release\Bass.Net.dll
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.csprojResolveAssemblyReference.cache
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Spectrum.baml
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Spectrum.g.cs
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum_MarkupCompile.cache
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.g.resources
+D:\PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum_Content.g.cs
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.exe
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.pdb
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\bin\Release\Audio Spectrum.exe
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\bin\Release\Audio Spectrum.pdb
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\bin\Release\Bass.Net.dll
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.csprojResolveAssemblyReference.cache
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Spectrum.baml
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Spectrum.g.cs
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum_Content.g.cs
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum_MarkupCompile.cache
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.g.resources
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio_Spectrum.Form1.resources
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio_Spectrum.Properties.Resources.resources
+D:\00. PROJECT\VC# 2010\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.csproj.GenerateResource.Cache
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.exe
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.pdb
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\bin\Release\Audio Spectrum.exe
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\bin\Release\Audio Spectrum.pdb
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\bin\Release\Bass.Net.dll
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Spectrum.baml
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Spectrum.g.cs
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum_Content.g.cs
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum_MarkupCompile.cache
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.g.resources
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio_Spectrum.Form1.resources
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio_Spectrum.Properties.Resources.resources
+C:\Users\KATHEES KUMAR\Desktop\Audio Spectrum\Audio Spectrum\obj\x86\Release\Audio Spectrum.csproj.GenerateResource.Cache
